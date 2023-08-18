@@ -7,10 +7,8 @@ ChatBot is a personalized chat bot application that utilizes the power of Stream
 ## Features
 
 - Seamless user interface powered by Streamlit.
-- Advanced language processing using LangChain.
 - Handling of rate limit errors to ensure uninterrupted conversations.
 - Intelligent management of token limits to prevent truncation of responses.
-- Enhanced conversational memory using ConversationEntityMemory.
 
 ## Installation
 
